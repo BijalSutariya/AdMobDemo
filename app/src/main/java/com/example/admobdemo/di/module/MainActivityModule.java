@@ -1,6 +1,6 @@
 package com.example.admobdemo.di.module;
 
-import com.example.admobdemo.MainActivity;
+import com.example.admobdemo.ui.MainActivity;
 
 import dagger.Module;
 import dagger.android.ContributesAndroidInjector;
